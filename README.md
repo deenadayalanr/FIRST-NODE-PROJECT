@@ -7,4 +7,4 @@ After downloading this project,please follow  these steps
     
     2.For mac and linux: type "sudo npm install" in visual studio code terminal
     
-# 2.After installation type "node app.js" in visual studio code terminal    
+# 2.After installation type "npm start" in visual studio code terminal    
